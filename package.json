@@ -1,0 +1,25 @@
+{
+  "name": "flat-merge",
+  "version": "1.0.0",
+  "description": "A simple shallow merge utility. Takes two values, returns the merged result.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Kory Nunn <knunn187@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "grape": "^1.0.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KoryNunn/flat-merge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/flat-merge/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/flat-merge"
+}
